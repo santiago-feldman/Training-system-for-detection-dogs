@@ -1,0 +1,28 @@
+Removed Pin From Net: NetName=3V3 Pin=C10-1
+Removed Pin From Net: NetName=GND Pin=P3-1
+Removed Pin From Net: NetName=3V3 Pin=P3-2
+Removed Pin From Net: NetName=CE Pin=P3-3
+Removed Pin From Net: NetName=CSN Pin=P3-4
+Removed Pin From Net: NetName=SCK Pin=P3-5
+Removed Pin From Net: NetName=MOSI Pin=P3-6
+Removed Pin From Net: NetName=MISO Pin=P3-7
+Removed Pin From Net: NetName=IRQ Pin=P3-8
+Removed Member From Class: ClassName=esquematico_microcontrolador Member=P3
+Added Component: Designator=U(XCVR_NRF24L01P-MODULE-PCB)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Nordic Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser-Purchase-URL"; Value = "https://snapeda.com/shop?store=Mouser&id=230534"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "NRF24L01P-MODULE-PCB"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/NRF24L01P-MODULE-PCB/Nordic%20Semiconductor%20ASA/view-part/230534/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U-1
+Added Pin To Net: NetName=3V3 Pin=U-2
+Added Pin To Net: NetName=CE Pin=U-3
+Added Pin To Net: NetName=CSN Pin=U-4
+Added Pin To Net: NetName=SCK Pin=U-5
+Added Pin To Net: NetName=MOSI Pin=U-6
+Added Pin To Net: NetName=MISO Pin=U-7
+Added Pin To Net: NetName=IRQ Pin=U-8
+Added Member To Class: ClassName=esquematico_microcontrolador Member=Component U NRF24L01P-MODULE-PCB

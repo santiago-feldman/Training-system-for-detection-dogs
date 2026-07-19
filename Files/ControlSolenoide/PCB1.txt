@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\trini\OneDrive - ITBA\ITBA\Tesis\ControlSolenoide\PCB1.PcbDoc
+Date         : 17/9/2025
+Time         : 19:38:25
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 51
+    Connections routed, 51
+    Connections remaining, 0
+count : 4

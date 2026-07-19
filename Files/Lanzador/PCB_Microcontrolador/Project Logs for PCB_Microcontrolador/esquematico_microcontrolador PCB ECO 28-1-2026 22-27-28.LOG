@@ -1,0 +1,16 @@
+Removed Pin From Net: NetName=CSN Pin=P3-4
+Removed Pin From Net: NetName=CE Pin=P3-5
+Add component: Footprint Not Found CAP_EEEFN1V100R
+Add component: Footprint Not Found CAP_EEEFN1V100R
+Add component: Footprint Not Found CAP_EEEFN1V100R
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Pin To Net: NetName=CE Pin=P3-4
+Added Pin To Net: NetName=CSN Pin=P3-5
+Add Class Member: Failed to add class member : Component C1 100uF
+Add Class Member: Failed to add class member : Component C3 10uF
+Add Class Member: Failed to add class member : Component C7 100uF

@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=In_Vbat Pin=U2-20
+Removed Pin From Net: NetName=In_3V3 Pin=U2-21
+Removed Pin From Net: NetName=EN_lanzador Pin=U2-22
+Added Pin To Net: NetName=EN_lanzador Pin=U2-20
+Added Pin To Net: NetName=In_Vbat Pin=U2-21
+Added Pin To Net: NetName=In_3V3 Pin=U2-22

@@ -1,0 +1,37 @@
+Add component: Footprint Not Found CAP_EEEFN1V100R
+Add component: Footprint Not Found CAP_EEEFN1V100R
+Add component: Footprint Not Found CAP_EEEFN1V100R
+Added Component: Designator=U2(MODULE_ESP32_DEVKIT_V1)
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Do it"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "ESP32-DEVKIT-V1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/ESP32-DEVKIT-V1/Do+it/view-part/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-2
+Added Pin To Net: NetName=EN_lanzador Pin=U2-3
+Added Pin To Net: NetName=EN_lanzador2 Pin=U2-5
+Added Pin To Net: NetName=SCK Pin=U2-9
+Added Pin To Net: NetName=MISO Pin=U2-10
+Added Pin To Net: NetName=SDA_BME280 Pin=U2-11
+Added Pin To Net: NetName=SCL_BME280 Pin=U2-14
+Added Pin To Net: NetName=MOSI Pin=U2-15
+Added Pin To Net: NetName=Control_Rele Pin=U2-19
+Added Pin To Net: NetName=In_Vbat Pin=U2-20
+Added Pin To Net: NetName=In_3V3 Pin=U2-21
+Added Pin To Net: NetName=SW_M Pin=U2-25
+Added Pin To Net: NetName=SW_A Pin=U2-26
+Added Pin To Net: NetName=CSN Pin=U2-27
+Added Pin To Net: NetName=CE Pin=U2-28
+Added Pin To Net: NetName=GND Pin=U2-29
+Add Class Member: Failed to add class member : Component C1 100uF
+Add Class Member: Failed to add class member : Component C3 10uF
+Add Class Member: Failed to add class member : Component C7 100uF
+Added Member To Class: ClassName=esquematico_microcontrolador Member=Component U2 ESP32-DEVKIT-V1

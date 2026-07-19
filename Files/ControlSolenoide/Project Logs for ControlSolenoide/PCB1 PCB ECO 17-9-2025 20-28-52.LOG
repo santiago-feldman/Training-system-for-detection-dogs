@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=C4 Old Footprint=FP-ECW-FD2J395J-MFG New Footprint=FP-RCE1M1-MFG
+Change Component Footprint: Designator=C6 Old Footprint=FP-ECW-FD2J395J-MFG New Footprint=FP-RCE1M1-MFG
+Change Component Comment : Designator=C4 Old Comment=ECW-FD2J395J New Comment=RCEC72A105K1M1H03A
+Change Component Comment : Designator=C6 Old Comment=ECW-FD2J395J New Comment=RCEC72A105K1M1H03A
+Change Managed Component Library Link : Designator=C4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2F0503AF-5366-4A83-BAEF-E5078C06CDE3 New ItemGUID=D173E073-D137-4E74-B6E3-1249EE4AF1B3 Old RevisionGUID=36AA2BEF-C4DE-42FA-8373-C70E46A87EDD New RevisionGUID=4A53A92A-050E-461A-A7E4-D91A41ECD050
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=2F0503AF-5366-4A83-BAEF-E5078C06CDE3 New ItemGUID=D173E073-D137-4E74-B6E3-1249EE4AF1B3 Old RevisionGUID=36AA2BEF-C4DE-42FA-8373-C70E46A87EDD New RevisionGUID=4A53A92A-050E-461A-A7E4-D91A41ECD050
+Change component parameters: Designator = "C4" ("C4"); Footprint = "FP-ECW-FD2J395J-MFG"; UniqueID = "\MPGURZAQ" ("\MPGURZAQ")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C6" ("C6"); Footprint = "FP-ECW-FD2J395J-MFG"; UniqueID = "\JRDBPJFW" ("\JRDBPJFW")
+Change component parameters (AddParameter): Name = "Capacitance"; Value = "1µF"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Case/Package"; Value = "Radial"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lifecycle Status"; Value = "Production"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Material"; Value = "Ceramic"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Voltage Rating"; Value = "100V"; VariantName = "[No Variations]"

@@ -1,0 +1,12 @@
+Board Information Report
+Filename     : C:\Users\nicos\Desktop\Mark IV\PCB\PCB.PcbDoc
+Date         : 05/12/2025
+Time         : 14:43:10
+Time Elapsed : 00:00:00
+
+Routing Information
+    Routing completion, 100,00%
+    Connections, 51
+    Connections routed, 51
+    Connections remaining, 0
+count : 4

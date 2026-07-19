@@ -1,0 +1,15 @@
+LTspice 24.0.9 for Windows
+Circuit: * C:\Users\juanm\OneDrive - ITBA\ITBA\DISEÑO\lanzador\multiplicador tension\multiplicador tension.asc
+Start Time: Mon Nov 10 23:01:06 2025
+solver = Normal
+Maximum thread count: 20
+tnom = 27
+temp = 27
+method = modified trap
+.OP point found by inspection.
+Ignoring empty pin current: Ix(u1:vc+)
+Ignoring empty pin current: Ix(u1:vc-)
+Ignoring empty pin current: Ix(u1:vc+)
+Ignoring empty pin current: Ix(u1:vc-)
+Total elapsed time: 38.468 seconds.
+
